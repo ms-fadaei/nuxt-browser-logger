@@ -49,7 +49,7 @@
     "nuxt-edge": "2.16.0-27277936.ab1c6cb4",
     "playwright": "1.16.3",
     "prettier": "2.4.1",
-    "standard-version": "9.3.2"
+    "commit-and-tag-version": "9.5.0"
   },
   "publishConfig": {
     "access": "public"
